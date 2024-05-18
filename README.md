@@ -1,5 +1,6 @@
 <h1 align="left">Hi There! I'm Gabriel :)</h1>
-- 😎 Senior Researcher at CEIA-UFG
+
+-  😎 Senior Researcher at CEIA-UFG
 
 - 🧠 Graduated Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil
 
