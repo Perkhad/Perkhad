@@ -1,6 +1,6 @@
 <h1 align="left">Hi There! I'm Gabriel :)</h1>
 
-- 🧠 Senior Graduate Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil
+- 🧠 Graduated Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil
 
 - 🔥 Data Scientist
 
