@@ -1,6 +1,6 @@
 <h1 align="left">Hi There! I'm Gabriel :)</h1>
 
--  😎 Senior Researcher at CEIA-UFG
+-  😎 Head of AI, CTO, CEO, VP, CFO, PO, Scrum Master, Tech Lead and Developer at Banquete
 
 - 🧠 Graduated Student in Artificial Intelligence at Federal University of Goiás (UFG) - Brazil
 
